@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="diferencaproduto/src"/>
+	<classpathentry kind="src" path="fluxograma/src"/>
+	<classpathentry kind="src" path="notasmedias/src"/>
+	<classpathentry kind="src" path="salarioliquido/src"/>
+	<classpathentry kind="output" path="diferencaproduto/bin"/>
+</classpath>
